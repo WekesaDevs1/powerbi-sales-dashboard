@@ -1,0 +1,501 @@
+OrderID,OrderDate,Region,Category,ProductName,Quantity,Sales,Profit
+1,2025-02-07,Nakuru,Office Supplies,Printer Paper,2,330.24,28.63
+2,2025-05-25,Mombasa,Electronics,Headphones,5,1052.24,194.35
+3,2025-09-12,Nakuru,Electronics,Laptop,5,2207.48,125.49
+4,2025-02-20,Mombasa,Office Supplies,Pen Set,1,393.63,90.14
+5,2025-01-08,Mombasa,Electronics,Tablet,2,870.42,223.95
+6,2025-08-05,Kisumu,Electronics,Headphones,2,683.71,135.56
+7,2025-02-19,Nairobi,Furniture,Desk,2,176.44,43.37
+8,2025-12-03,Kisumu,Electronics,Phone,1,379.12,45.54
+9,2025-10-10,Mombasa,Electronics,Tablet,4,643.74,78.5
+10,2025-12-23,Nakuru,Furniture,Chair,1,457.02,57.01
+11,2025-05-24,Nakuru,Electronics,Phone,4,1916.55,220.87
+12,2025-08-05,Mombasa,Furniture,Chair,4,1117.95,269.84
+13,2025-09-20,Kisumu,Furniture,Cabinet,5,171.52,46.44
+14,2025-03-19,Nakuru,Electronics,Laptop,5,1006.2,185.75
+15,2025-10-29,Nairobi,Office Supplies,Printer Paper,3,978.48,79.82
+16,2025-12-04,Kisumu,Furniture,Desk,5,747.83,204.88
+17,2025-04-05,Kisumu,Office Supplies,Printer Paper,4,1273.66,100.22
+18,2025-04-14,Nairobi,Electronics,Tablet,2,431.81,47.18
+19,2025-11-24,Nakuru,Office Supplies,Stapler,2,186.81,36.36
+20,2025-10-06,Kisumu,Office Supplies,Pen Set,2,774.01,129.14
+21,2025-07-03,Mombasa,Office Supplies,Pen Set,1,102.72,8.66
+22,2025-05-22,Mombasa,Furniture,Cabinet,1,381.86,107.21
+23,2025-05-18,Mombasa,Furniture,Chair,5,162.91,9.3
+24,2025-03-19,Nakuru,Electronics,Phone,1,484.48,57.93
+25,2025-08-23,Kisumu,Electronics,Laptop,1,28.95,7.24
+26,2025-02-03,Kisumu,Furniture,Desk,1,225.35,35.4
+27,2025-10-15,Nairobi,Electronics,Tablet,4,286.39,30.48
+28,2025-02-20,Nairobi,Electronics,Laptop,4,218.19,63.67
+29,2025-02-14,Kisumu,Electronics,Headphones,4,1508.15,149.09
+30,2025-03-28,Nakuru,Electronics,Phone,5,816.83,82.57
+31,2025-10-16,Nakuru,Office Supplies,Printer Paper,2,477.07,87.28
+32,2025-07-14,Mombasa,Furniture,Cabinet,5,617.56,172.37
+33,2025-05-26,Nairobi,Electronics,Phone,2,111.29,8.22
+34,2025-08-19,Kisumu,Electronics,Tablet,5,443.83,125.49
+35,2025-09-30,Nairobi,Office Supplies,Printer Paper,4,206.65,48.31
+36,2025-09-28,Nairobi,Office Supplies,Stapler,4,899.48,208.8
+37,2025-02-24,Kisumu,Office Supplies,Printer Paper,2,47.68,13.43
+38,2025-04-25,Mombasa,Electronics,Laptop,4,1632.01,231.9
+39,2025-11-12,Nakuru,Office Supplies,Pen Set,5,1313.59,72.75
+40,2025-09-11,Nakuru,Office Supplies,Pen Set,3,313.72,41.73
+41,2025-03-31,Kisumu,Office Supplies,Pen Set,1,299.37,80.74
+42,2025-03-06,Nakuru,Electronics,Laptop,5,931.09,180.88
+43,2025-06-26,Nairobi,Furniture,Chair,3,374.49,42.01
+44,2025-12-18,Mombasa,Electronics,Phone,1,281.07,27.49
+45,2025-07-24,Nairobi,Furniture,Chair,1,345.95,96.75
+46,2025-08-01,Mombasa,Office Supplies,Pen Set,3,1462.25,294.17
+47,2025-10-30,Nairobi,Electronics,Laptop,3,471.23,92.69
+48,2025-10-20,Mombasa,Electronics,Tablet,4,1739.8,227.34
+49,2025-04-23,Kisumu,Furniture,Cabinet,5,1085.95,163.29
+50,2025-10-10,Nakuru,Electronics,Tablet,1,487.42,106.96
+51,2025-08-23,Nairobi,Furniture,Cabinet,5,2212.0,610.42
+52,2025-02-02,Kisumu,Electronics,Phone,3,838.64,222.22
+53,2025-06-14,Mombasa,Furniture,Desk,5,1165.14,63.88
+54,2025-11-03,Nairobi,Furniture,Chair,4,1434.91,157.2
+55,2025-12-27,Nairobi,Electronics,Laptop,3,1010.88,97.9
+56,2025-05-26,Nairobi,Furniture,Cabinet,2,853.14,221.56
+57,2025-02-12,Nairobi,Furniture,Chair,3,337.87,59.09
+58,2025-11-01,Mombasa,Electronics,Laptop,1,46.62,4.17
+59,2025-11-21,Kisumu,Electronics,Laptop,5,1245.14,109.78
+60,2025-12-23,Kisumu,Furniture,Desk,4,1977.08,170.37
+61,2025-08-25,Nairobi,Office Supplies,Printer Paper,4,756.07,38.0
+62,2025-05-05,Kisumu,Office Supplies,Stapler,3,202.19,43.03
+63,2025-05-03,Kisumu,Office Supplies,Pen Set,4,1203.89,352.01
+64,2025-01-06,Mombasa,Electronics,Phone,2,371.49,92.56
+65,2025-06-24,Mombasa,Office Supplies,Stapler,4,1810.51,335.65
+66,2025-12-01,Nairobi,Office Supplies,Printer Paper,3,1225.07,201.57
+67,2025-08-10,Nairobi,Electronics,Phone,5,172.96,24.5
+68,2025-12-13,Nairobi,Office Supplies,Stapler,2,221.09,35.48
+69,2025-07-04,Kisumu,Office Supplies,Printer Paper,4,583.37,138.58
+70,2025-04-06,Nairobi,Electronics,Laptop,3,488.16,27.78
+71,2025-05-03,Nakuru,Electronics,Tablet,2,759.86,135.09
+72,2025-12-09,Nairobi,Electronics,Laptop,4,142.06,32.3
+73,2025-03-21,Kisumu,Electronics,Tablet,4,592.78,41.71
+74,2025-06-29,Nakuru,Electronics,Phone,3,618.47,101.82
+75,2025-06-18,Nakuru,Electronics,Phone,1,412.53,88.31
+76,2025-03-24,Kisumu,Electronics,Laptop,5,1732.05,339.46
+77,2025-12-11,Kisumu,Electronics,Tablet,5,1047.64,248.01
+78,2025-12-20,Nairobi,Office Supplies,Pen Set,5,1237.61,310.38
+79,2025-02-10,Mombasa,Office Supplies,Stapler,3,1174.38,95.61
+80,2025-04-29,Mombasa,Electronics,Laptop,1,476.57,131.7
+81,2025-11-24,Mombasa,Furniture,Chair,2,630.69,163.63
+82,2025-08-02,Mombasa,Office Supplies,Printer Paper,2,755.51,87.74
+83,2025-04-25,Nakuru,Furniture,Cabinet,4,1787.6,480.2
+84,2025-09-19,Nairobi,Office Supplies,Stapler,4,1983.98,495.83
+85,2025-12-19,Mombasa,Electronics,Laptop,2,924.18,56.57
+86,2025-03-10,Mombasa,Office Supplies,Printer Paper,1,447.69,25.44
+87,2025-06-03,Kisumu,Electronics,Phone,2,534.61,62.43
+88,2025-05-22,Nakuru,Furniture,Desk,3,890.53,113.86
+89,2025-02-28,Kisumu,Office Supplies,Stapler,2,951.02,61.69
+90,2025-12-06,Nairobi,Office Supplies,Printer Paper,1,327.63,26.85
+91,2025-05-13,Kisumu,Electronics,Laptop,4,275.85,79.52
+92,2025-06-16,Nakuru,Furniture,Chair,2,499.31,74.79
+93,2025-08-03,Mombasa,Electronics,Headphones,1,269.13,25.21
+94,2025-09-24,Kisumu,Office Supplies,Printer Paper,4,1221.2,359.03
+95,2025-02-23,Mombasa,Office Supplies,Stapler,2,225.72,15.15
+96,2025-06-11,Nairobi,Electronics,Headphones,2,973.88,235.55
+97,2025-03-19,Nairobi,Electronics,Phone,5,1244.52,66.31
+98,2025-12-05,Mombasa,Office Supplies,Printer Paper,4,958.22,80.89
+99,2025-06-19,Nairobi,Electronics,Headphones,5,497.86,82.51
+100,2025-06-28,Nairobi,Furniture,Desk,2,159.83,20.48
+101,2025-10-03,Nakuru,Furniture,Cabinet,2,62.0,11.15
+102,2025-01-19,Nairobi,Office Supplies,Printer Paper,3,706.92,197.02
+103,2025-09-29,Nairobi,Office Supplies,Printer Paper,3,1297.42,334.22
+104,2025-02-02,Kisumu,Furniture,Desk,3,668.78,168.13
+105,2025-07-17,Nakuru,Electronics,Tablet,3,1136.14,139.06
+106,2025-09-11,Nairobi,Furniture,Cabinet,4,149.29,38.95
+107,2025-11-16,Nakuru,Electronics,Headphones,1,107.65,19.95
+108,2025-08-22,Nakuru,Furniture,Chair,4,292.97,64.06
+109,2025-11-29,Nairobi,Electronics,Headphones,3,1003.14,179.99
+110,2025-07-30,Kisumu,Electronics,Tablet,4,1853.04,419.74
+111,2025-05-27,Mombasa,Electronics,Headphones,5,483.6,48.67
+112,2025-06-18,Kisumu,Furniture,Chair,3,331.79,70.0
+113,2025-08-04,Nairobi,Office Supplies,Printer Paper,3,979.03,195.1
+114,2025-02-23,Mombasa,Electronics,Tablet,2,448.54,110.14
+115,2025-04-02,Mombasa,Office Supplies,Stapler,4,226.24,61.79
+116,2025-02-08,Mombasa,Furniture,Desk,5,1829.24,478.96
+117,2025-08-24,Nakuru,Electronics,Tablet,3,1346.38,269.4
+118,2025-12-07,Mombasa,Electronics,Laptop,3,1384.72,93.26
+119,2025-10-01,Kisumu,Furniture,Cabinet,2,471.34,88.09
+120,2025-08-31,Nakuru,Office Supplies,Printer Paper,5,2327.34,311.67
+121,2025-02-25,Nairobi,Furniture,Cabinet,5,2469.58,295.17
+122,2025-11-30,Nairobi,Electronics,Tablet,4,1479.39,265.07
+123,2025-06-28,Nakuru,Office Supplies,Stapler,4,419.86,94.6
+124,2025-04-15,Nairobi,Furniture,Desk,3,575.8,132.9
+125,2025-05-08,Nakuru,Electronics,Tablet,5,2219.27,412.32
+126,2025-11-20,Kisumu,Electronics,Phone,4,1258.63,164.92
+127,2025-05-15,Nakuru,Furniture,Cabinet,4,898.59,122.59
+128,2025-04-17,Kisumu,Electronics,Phone,5,855.44,176.83
+129,2025-02-12,Kisumu,Furniture,Desk,3,1004.97,83.37
+130,2025-03-27,Kisumu,Electronics,Tablet,5,1940.26,341.83
+131,2025-07-25,Nakuru,Electronics,Laptop,1,295.17,84.33
+132,2025-01-26,Nakuru,Electronics,Phone,4,1928.71,369.89
+133,2025-02-02,Nairobi,Office Supplies,Printer Paper,1,23.81,7.08
+134,2025-02-08,Mombasa,Electronics,Tablet,4,97.16,24.84
+135,2025-09-01,Nairobi,Furniture,Desk,3,945.01,173.04
+136,2025-02-01,Kisumu,Office Supplies,Printer Paper,4,1724.87,266.74
+137,2025-03-12,Kisumu,Electronics,Phone,4,443.94,129.3
+138,2025-02-11,Nairobi,Electronics,Phone,3,80.29,18.39
+139,2025-03-06,Mombasa,Electronics,Laptop,1,400.07,89.59
+140,2025-10-04,Mombasa,Furniture,Chair,1,174.47,16.25
+141,2025-08-19,Kisumu,Office Supplies,Pen Set,3,1464.32,190.48
+142,2025-07-17,Nakuru,Furniture,Cabinet,5,729.32,119.79
+143,2025-09-01,Nairobi,Office Supplies,Printer Paper,1,178.53,40.05
+144,2025-11-07,Nakuru,Electronics,Headphones,3,762.61,201.21
+145,2025-09-27,Kisumu,Office Supplies,Stapler,1,451.14,72.87
+146,2025-08-08,Kisumu,Electronics,Tablet,4,828.94,51.16
+147,2025-02-05,Mombasa,Furniture,Cabinet,2,770.21,213.12
+148,2025-06-01,Kisumu,Electronics,Headphones,1,350.48,39.73
+149,2025-12-15,Nakuru,Furniture,Chair,2,397.05,55.12
+150,2025-11-04,Nakuru,Electronics,Tablet,4,398.01,75.32
+151,2025-12-23,Nakuru,Office Supplies,Pen Set,1,472.42,63.69
+152,2025-09-14,Nakuru,Furniture,Chair,2,850.75,212.76
+153,2025-12-17,Nakuru,Furniture,Cabinet,1,433.32,109.82
+154,2025-02-01,Nakuru,Electronics,Headphones,1,491.74,99.37
+155,2025-09-09,Kisumu,Furniture,Desk,5,1224.8,192.31
+156,2025-03-04,Nairobi,Electronics,Tablet,3,894.28,251.45
+157,2025-06-13,Kisumu,Furniture,Cabinet,2,761.81,57.4
+158,2025-10-08,Kisumu,Electronics,Phone,5,1694.9,180.08
+159,2025-05-09,Nakuru,Electronics,Phone,3,1438.7,95.24
+160,2025-09-10,Nakuru,Furniture,Chair,1,62.02,3.3
+161,2025-12-02,Kisumu,Electronics,Headphones,1,91.44,18.28
+162,2025-01-10,Nakuru,Furniture,Chair,4,761.51,84.82
+163,2025-05-14,Mombasa,Furniture,Cabinet,1,51.12,13.37
+164,2025-07-06,Nakuru,Office Supplies,Pen Set,1,294.16,27.98
+165,2025-07-26,Nakuru,Electronics,Headphones,5,1800.31,439.94
+166,2025-11-30,Nakuru,Furniture,Desk,2,394.62,33.76
+167,2025-08-28,Nakuru,Furniture,Chair,4,1428.65,382.09
+168,2025-03-25,Nairobi,Electronics,Headphones,4,639.02,112.39
+169,2025-12-10,Nairobi,Electronics,Headphones,3,63.73,15.39
+170,2025-04-28,Mombasa,Electronics,Headphones,5,1930.01,187.79
+171,2025-05-27,Nairobi,Electronics,Phone,5,1031.43,121.04
+172,2025-06-29,Nairobi,Furniture,Cabinet,2,55.91,4.39
+173,2025-04-20,Nairobi,Furniture,Cabinet,3,479.54,49.76
+174,2025-12-22,Nairobi,Furniture,Cabinet,3,161.28,27.18
+175,2025-10-04,Kisumu,Office Supplies,Printer Paper,5,1395.16,382.02
+176,2025-07-09,Nairobi,Electronics,Headphones,3,630.89,148.33
+177,2025-03-10,Nairobi,Furniture,Desk,3,195.5,52.31
+178,2025-12-31,Nakuru,Electronics,Tablet,2,793.42,113.55
+179,2025-12-11,Nakuru,Office Supplies,Printer Paper,1,182.92,34.51
+180,2025-12-27,Kisumu,Office Supplies,Stapler,2,968.82,56.24
+181,2025-05-16,Nakuru,Office Supplies,Printer Paper,4,484.67,29.26
+182,2025-11-19,Nakuru,Electronics,Laptop,5,1708.84,269.34
+183,2025-11-16,Mombasa,Furniture,Chair,5,202.52,42.21
+184,2025-05-23,Nakuru,Electronics,Laptop,1,361.57,32.68
+185,2025-06-02,Nakuru,Office Supplies,Pen Set,2,452.49,53.59
+186,2025-04-21,Mombasa,Electronics,Headphones,2,100.81,15.67
+187,2025-02-04,Nakuru,Electronics,Headphones,1,272.86,25.51
+188,2025-12-19,Nairobi,Electronics,Phone,4,1956.01,558.45
+189,2025-02-10,Kisumu,Electronics,Laptop,4,1668.0,358.52
+190,2025-12-16,Kisumu,Electronics,Tablet,4,1250.54,217.83
+191,2025-08-06,Nairobi,Electronics,Phone,1,353.2,65.56
+192,2025-11-25,Kisumu,Furniture,Cabinet,1,139.18,17.23
+193,2025-03-10,Mombasa,Electronics,Laptop,3,1351.66,136.31
+194,2025-05-24,Nakuru,Office Supplies,Pen Set,2,420.85,27.12
+195,2025-03-08,Mombasa,Office Supplies,Pen Set,3,658.3,84.95
+196,2025-06-03,Nairobi,Electronics,Phone,1,449.84,65.33
+197,2025-12-02,Kisumu,Office Supplies,Pen Set,1,124.64,25.72
+198,2025-12-03,Nakuru,Furniture,Desk,4,651.88,161.82
+199,2025-09-20,Kisumu,Furniture,Desk,1,337.25,53.5
+200,2025-01-22,Nairobi,Office Supplies,Printer Paper,2,744.82,98.34
+201,2025-10-17,Nakuru,Electronics,Tablet,3,817.31,232.42
+202,2025-05-21,Kisumu,Office Supplies,Pen Set,5,151.3,45.29
+203,2025-06-22,Nakuru,Electronics,Headphones,3,790.25,129.34
+204,2025-10-27,Nairobi,Office Supplies,Printer Paper,2,893.17,64.71
+205,2025-03-01,Mombasa,Furniture,Chair,3,1142.36,79.98
+206,2025-06-01,Kisumu,Furniture,Chair,2,374.41,30.99
+207,2025-04-14,Mombasa,Furniture,Desk,2,992.87,84.93
+208,2025-10-09,Nakuru,Furniture,Desk,5,1038.64,135.17
+209,2025-05-27,Kisumu,Furniture,Cabinet,2,450.56,33.73
+210,2025-11-12,Mombasa,Office Supplies,Printer Paper,4,1249.39,126.32
+211,2025-03-26,Mombasa,Electronics,Tablet,4,128.91,29.95
+212,2025-08-10,Nakuru,Office Supplies,Stapler,3,1069.22,262.83
+213,2025-10-02,Nairobi,Furniture,Desk,1,449.33,56.73
+214,2025-06-03,Mombasa,Office Supplies,Stapler,1,56.33,15.19
+215,2025-11-02,Kisumu,Office Supplies,Stapler,5,1239.17,86.48
+216,2025-04-09,Nairobi,Office Supplies,Stapler,3,1388.14,350.77
+217,2025-05-30,Kisumu,Furniture,Cabinet,3,1210.74,245.64
+218,2025-03-02,Kisumu,Furniture,Desk,4,869.28,235.53
+219,2025-06-05,Kisumu,Furniture,Desk,4,1687.52,484.14
+220,2025-08-16,Nakuru,Electronics,Phone,5,1972.87,338.94
+221,2025-06-05,Nairobi,Electronics,Tablet,4,122.76,31.34
+222,2025-10-10,Nairobi,Furniture,Desk,5,1311.97,156.26
+223,2025-03-05,Nairobi,Office Supplies,Printer Paper,3,61.1,6.53
+224,2025-03-01,Kisumu,Furniture,Cabinet,1,145.55,11.73
+225,2025-05-17,Nairobi,Furniture,Cabinet,2,927.75,136.14
+226,2025-08-28,Mombasa,Electronics,Tablet,2,421.92,42.16
+227,2025-05-25,Mombasa,Electronics,Laptop,1,341.47,75.93
+228,2025-10-22,Kisumu,Electronics,Headphones,3,531.7,35.56
+229,2025-02-06,Nairobi,Office Supplies,Stapler,4,1215.46,191.07
+230,2025-09-17,Nairobi,Electronics,Phone,2,116.17,14.6
+231,2025-05-09,Kisumu,Furniture,Desk,2,945.37,61.01
+232,2025-01-01,Kisumu,Electronics,Laptop,4,1467.1,101.42
+233,2025-05-25,Kisumu,Electronics,Phone,3,951.53,200.49
+234,2025-12-27,Nakuru,Furniture,Chair,2,391.34,78.69
+235,2025-09-08,Kisumu,Electronics,Laptop,1,399.51,84.4
+236,2025-09-21,Mombasa,Furniture,Cabinet,5,1181.54,157.86
+237,2025-07-24,Nairobi,Office Supplies,Pen Set,4,1425.02,402.77
+238,2025-06-07,Nairobi,Office Supplies,Pen Set,3,71.7,10.11
+239,2025-09-18,Nairobi,Furniture,Chair,3,1464.49,197.28
+240,2025-12-19,Mombasa,Electronics,Tablet,4,124.87,16.61
+241,2025-06-28,Mombasa,Furniture,Chair,2,699.81,133.22
+242,2025-01-09,Kisumu,Furniture,Cabinet,2,613.01,180.78
+243,2025-11-23,Mombasa,Furniture,Desk,1,33.31,3.13
+244,2025-01-23,Mombasa,Electronics,Phone,1,45.48,8.52
+245,2025-07-05,Mombasa,Furniture,Desk,2,305.73,85.55
+246,2025-05-21,Nairobi,Office Supplies,Stapler,2,900.2,263.92
+247,2025-02-24,Kisumu,Office Supplies,Pen Set,2,110.53,5.93
+248,2025-12-07,Nakuru,Electronics,Headphones,3,1401.94,171.62
+249,2025-11-22,Mombasa,Furniture,Desk,3,1206.9,61.58
+250,2025-08-23,Nakuru,Electronics,Headphones,2,862.65,133.82
+251,2025-12-25,Mombasa,Office Supplies,Stapler,5,2444.6,442.2
+252,2025-08-29,Mombasa,Office Supplies,Stapler,3,890.1,96.49
+253,2025-04-01,Nakuru,Office Supplies,Stapler,2,618.19,184.66
+254,2025-07-20,Mombasa,Furniture,Cabinet,4,493.5,98.17
+255,2025-03-29,Kisumu,Office Supplies,Printer Paper,3,114.52,7.37
+256,2025-01-30,Nairobi,Office Supplies,Stapler,2,381.78,110.11
+257,2025-06-30,Nakuru,Electronics,Laptop,4,293.59,70.32
+258,2025-02-19,Nakuru,Office Supplies,Pen Set,1,203.28,32.72
+259,2025-03-22,Nairobi,Office Supplies,Printer Paper,5,783.1,216.8
+260,2025-01-10,Mombasa,Furniture,Cabinet,5,2211.33,459.95
+261,2025-04-10,Nairobi,Furniture,Cabinet,2,168.07,49.1
+262,2025-06-15,Mombasa,Electronics,Headphones,2,442.48,117.28
+263,2025-07-06,Nairobi,Furniture,Desk,5,2171.74,642.9
+264,2025-09-27,Nakuru,Electronics,Headphones,4,1792.32,523.19
+265,2025-11-15,Nakuru,Electronics,Headphones,3,986.75,117.91
+266,2025-06-08,Kisumu,Furniture,Chair,2,561.41,28.79
+267,2025-10-09,Kisumu,Electronics,Tablet,4,1881.01,181.23
+268,2025-08-05,Nakuru,Office Supplies,Printer Paper,1,430.13,125.37
+269,2025-06-06,Nairobi,Electronics,Headphones,4,1467.16,431.75
+270,2025-08-27,Nakuru,Office Supplies,Pen Set,5,398.23,111.57
+271,2025-06-18,Nairobi,Electronics,Laptop,5,132.28,37.62
+272,2025-09-19,Nairobi,Electronics,Phone,5,320.08,41.49
+273,2025-06-06,Nairobi,Electronics,Tablet,2,520.21,70.85
+274,2025-12-02,Nairobi,Office Supplies,Printer Paper,5,2319.06,606.2
+275,2025-02-09,Kisumu,Office Supplies,Pen Set,2,223.77,33.68
+276,2025-09-13,Nairobi,Electronics,Phone,5,947.55,276.17
+277,2025-09-21,Nairobi,Electronics,Headphones,3,535.45,112.98
+278,2025-06-15,Nairobi,Electronics,Headphones,1,455.41,120.74
+279,2025-02-24,Nairobi,Office Supplies,Stapler,3,1161.83,115.67
+280,2025-08-19,Nairobi,Office Supplies,Printer Paper,5,2225.26,212.18
+281,2025-04-25,Mombasa,Furniture,Chair,3,296.4,27.02
+282,2025-08-15,Nakuru,Electronics,Laptop,1,56.3,7.24
+283,2025-08-30,Nairobi,Electronics,Headphones,1,346.49,32.47
+284,2025-08-12,Kisumu,Furniture,Desk,1,342.91,61.11
+285,2025-09-19,Nairobi,Electronics,Tablet,2,222.0,60.81
+286,2025-01-03,Mombasa,Electronics,Headphones,5,1724.84,231.17
+287,2025-02-22,Nakuru,Electronics,Laptop,5,711.04,171.75
+288,2025-07-17,Nakuru,Furniture,Chair,4,1341.52,349.91
+289,2025-05-05,Mombasa,Office Supplies,Pen Set,4,133.21,9.5
+290,2025-11-25,Nairobi,Office Supplies,Stapler,4,404.89,86.03
+291,2025-06-18,Kisumu,Furniture,Chair,4,1691.92,330.94
+292,2025-07-30,Mombasa,Office Supplies,Printer Paper,4,845.53,246.6
+293,2025-07-11,Kisumu,Office Supplies,Pen Set,1,133.51,12.27
+294,2025-05-16,Nakuru,Furniture,Desk,2,47.62,9.77
+295,2025-11-10,Kisumu,Electronics,Phone,1,333.07,91.27
+296,2025-03-06,Nairobi,Office Supplies,Stapler,5,2110.07,441.78
+297,2025-01-03,Kisumu,Electronics,Tablet,1,425.9,126.35
+298,2025-07-10,Mombasa,Office Supplies,Printer Paper,4,187.62,20.27
+299,2025-08-14,Mombasa,Electronics,Laptop,2,559.55,109.01
+300,2025-03-24,Kisumu,Office Supplies,Printer Paper,1,242.16,44.35
+301,2025-04-20,Mombasa,Electronics,Headphones,4,1505.38,222.14
+302,2025-07-30,Nakuru,Furniture,Desk,5,1611.24,305.39
+303,2025-02-27,Mombasa,Electronics,Headphones,5,496.61,102.11
+304,2025-10-11,Nakuru,Office Supplies,Printer Paper,5,2442.97,148.69
+305,2025-02-23,Nakuru,Office Supplies,Printer Paper,5,1336.77,81.92
+306,2025-03-17,Nakuru,Furniture,Cabinet,3,856.39,154.71
+307,2025-07-06,Kisumu,Furniture,Desk,4,707.51,79.5
+308,2025-10-11,Mombasa,Office Supplies,Pen Set,5,2148.36,615.41
+309,2025-02-01,Kisumu,Office Supplies,Printer Paper,5,676.35,99.07
+310,2025-02-07,Kisumu,Office Supplies,Stapler,5,614.72,125.9
+311,2025-03-24,Nakuru,Furniture,Desk,2,319.17,89.04
+312,2025-06-18,Nakuru,Office Supplies,Printer Paper,1,189.22,56.67
+313,2025-05-07,Mombasa,Furniture,Desk,1,243.15,56.81
+314,2025-10-01,Nairobi,Office Supplies,Pen Set,1,284.96,82.92
+315,2025-05-08,Mombasa,Furniture,Cabinet,2,328.61,83.74
+316,2025-04-20,Kisumu,Furniture,Cabinet,5,955.47,217.86
+317,2025-11-20,Nakuru,Furniture,Desk,1,98.86,11.14
+318,2025-09-16,Nakuru,Electronics,Laptop,4,722.32,155.46
+319,2025-06-30,Mombasa,Office Supplies,Pen Set,4,807.36,124.45
+320,2025-05-08,Nakuru,Office Supplies,Printer Paper,3,748.21,141.13
+321,2025-11-18,Mombasa,Office Supplies,Stapler,4,156.63,16.74
+322,2025-06-10,Mombasa,Furniture,Cabinet,5,143.22,27.68
+323,2025-12-06,Mombasa,Furniture,Desk,1,484.17,110.48
+324,2025-01-19,Mombasa,Electronics,Phone,1,98.55,20.5
+325,2025-10-03,Mombasa,Electronics,Headphones,1,162.05,38.0
+326,2025-05-06,Mombasa,Furniture,Chair,3,409.91,71.05
+327,2025-05-20,Kisumu,Electronics,Laptop,4,1108.2,160.56
+328,2025-04-02,Mombasa,Electronics,Tablet,2,660.1,99.95
+329,2025-06-27,Mombasa,Office Supplies,Printer Paper,1,389.66,29.76
+330,2025-09-19,Nairobi,Office Supplies,Pen Set,2,663.49,151.91
+331,2025-11-25,Nairobi,Electronics,Headphones,4,909.53,58.21
+332,2025-10-15,Nakuru,Furniture,Cabinet,3,326.31,62.47
+333,2025-06-17,Mombasa,Electronics,Laptop,2,827.39,144.66
+334,2025-05-01,Nairobi,Electronics,Headphones,5,205.97,29.48
+335,2025-11-22,Nairobi,Electronics,Laptop,4,854.45,133.17
+336,2025-03-18,Kisumu,Electronics,Laptop,2,776.19,161.89
+337,2025-02-17,Nairobi,Office Supplies,Stapler,2,398.18,46.92
+338,2025-09-16,Kisumu,Office Supplies,Pen Set,4,1963.79,493.5
+339,2025-02-12,Nairobi,Office Supplies,Printer Paper,4,1406.22,305.54
+340,2025-04-19,Nakuru,Office Supplies,Pen Set,1,57.02,13.64
+341,2025-01-14,Kisumu,Office Supplies,Pen Set,5,1594.84,276.46
+342,2025-02-17,Kisumu,Office Supplies,Pen Set,5,1815.32,213.08
+343,2025-05-03,Mombasa,Furniture,Cabinet,5,2072.25,574.48
+344,2025-07-06,Nairobi,Office Supplies,Pen Set,2,617.93,96.61
+345,2025-12-10,Kisumu,Electronics,Headphones,1,245.74,54.23
+346,2025-03-04,Mombasa,Office Supplies,Stapler,2,349.46,39.13
+347,2025-02-24,Mombasa,Electronics,Phone,5,1942.61,276.3
+348,2025-03-23,Mombasa,Office Supplies,Pen Set,1,125.99,22.41
+349,2025-05-03,Nakuru,Electronics,Phone,1,403.13,53.02
+350,2025-03-03,Kisumu,Electronics,Phone,1,83.54,20.86
+351,2025-10-24,Nairobi,Furniture,Desk,5,915.25,51.56
+352,2025-06-13,Nakuru,Furniture,Cabinet,1,22.23,4.44
+353,2025-09-23,Nakuru,Office Supplies,Pen Set,4,1091.22,150.98
+354,2025-10-24,Nakuru,Electronics,Laptop,1,329.67,93.85
+355,2025-12-13,Nairobi,Furniture,Cabinet,1,132.19,38.47
+356,2025-11-23,Mombasa,Electronics,Tablet,3,1306.59,193.4
+357,2025-07-07,Mombasa,Electronics,Laptop,1,32.58,5.0
+358,2025-09-20,Kisumu,Furniture,Chair,4,1609.26,260.5
+359,2025-08-15,Kisumu,Office Supplies,Stapler,2,318.32,64.81
+360,2025-04-28,Nakuru,Furniture,Desk,1,264.75,35.99
+361,2025-03-28,Kisumu,Office Supplies,Pen Set,5,539.01,153.36
+362,2025-04-13,Nairobi,Electronics,Laptop,5,960.33,113.11
+363,2025-10-01,Nakuru,Furniture,Chair,3,1472.88,191.42
+364,2025-01-31,Kisumu,Furniture,Desk,4,282.34,34.23
+365,2025-03-15,Nakuru,Furniture,Desk,4,1072.87,115.9
+366,2025-08-15,Nakuru,Electronics,Headphones,1,453.6,70.35
+367,2025-02-09,Kisumu,Electronics,Laptop,1,221.11,48.22
+368,2025-03-25,Mombasa,Electronics,Tablet,2,797.47,101.32
+369,2025-05-06,Nairobi,Electronics,Headphones,4,1743.83,373.55
+370,2025-06-26,Nakuru,Electronics,Phone,2,589.82,47.14
+371,2025-11-05,Kisumu,Electronics,Headphones,4,1857.05,523.69
+372,2025-05-02,Nairobi,Furniture,Cabinet,2,420.89,48.64
+373,2025-09-23,Mombasa,Furniture,Chair,4,894.64,105.56
+374,2025-11-22,Kisumu,Electronics,Tablet,5,556.21,93.04
+375,2025-05-03,Kisumu,Office Supplies,Stapler,1,141.77,13.69
+376,2025-03-14,Mombasa,Furniture,Cabinet,3,1001.54,139.11
+377,2025-10-08,Mombasa,Electronics,Headphones,4,1200.11,269.02
+378,2025-07-12,Nairobi,Office Supplies,Pen Set,3,1215.96,344.21
+379,2025-02-12,Kisumu,Office Supplies,Stapler,2,950.18,282.5
+380,2025-03-12,Nairobi,Electronics,Tablet,1,57.38,10.37
+381,2025-09-08,Mombasa,Office Supplies,Pen Set,3,1387.84,249.97
+382,2025-03-02,Mombasa,Office Supplies,Stapler,5,676.44,72.87
+383,2025-02-17,Nairobi,Electronics,Headphones,4,1767.28,266.14
+384,2025-11-26,Nairobi,Electronics,Headphones,2,683.16,161.75
+385,2025-10-05,Nakuru,Electronics,Laptop,4,89.55,8.83
+386,2025-02-23,Nairobi,Furniture,Desk,4,1040.18,135.44
+387,2025-05-11,Mombasa,Electronics,Tablet,1,480.56,26.38
+388,2025-02-11,Nairobi,Office Supplies,Printer Paper,3,208.06,20.59
+389,2025-01-16,Nairobi,Furniture,Chair,3,404.15,61.39
+390,2025-04-15,Mombasa,Furniture,Chair,5,1475.36,432.6
+391,2025-09-16,Mombasa,Furniture,Chair,2,187.73,20.06
+392,2025-01-15,Nairobi,Office Supplies,Stapler,1,351.71,68.4
+393,2025-12-06,Nakuru,Office Supplies,Pen Set,1,34.05,6.43
+394,2025-07-12,Kisumu,Electronics,Tablet,2,365.69,96.26
+395,2025-09-29,Nairobi,Office Supplies,Pen Set,5,2070.82,474.52
+396,2025-08-28,Mombasa,Office Supplies,Stapler,2,463.7,84.39
+397,2025-12-14,Nairobi,Electronics,Headphones,2,799.53,128.84
+398,2025-10-17,Nakuru,Furniture,Desk,5,849.24,86.42
+399,2025-08-23,Mombasa,Furniture,Desk,1,165.05,23.38
+400,2025-01-19,Nakuru,Office Supplies,Printer Paper,3,983.48,125.45
+401,2025-03-07,Kisumu,Electronics,Phone,1,21.22,3.22
+402,2025-06-16,Nairobi,Furniture,Chair,3,1118.96,219.64
+403,2025-03-27,Nakuru,Electronics,Phone,1,173.11,13.93
+404,2025-10-13,Nakuru,Electronics,Tablet,5,1890.78,310.89
+405,2025-01-25,Mombasa,Furniture,Cabinet,4,1685.83,306.18
+406,2025-03-25,Nairobi,Electronics,Tablet,3,820.29,134.61
+407,2025-09-08,Mombasa,Electronics,Headphones,5,1909.29,505.3
+408,2025-11-22,Kisumu,Electronics,Tablet,5,1882.21,436.25
+409,2025-01-27,Mombasa,Electronics,Headphones,5,2410.44,288.19
+410,2025-06-06,Nakuru,Furniture,Desk,4,214.93,40.77
+411,2025-04-01,Nairobi,Electronics,Laptop,4,798.23,94.88
+412,2025-06-15,Mombasa,Furniture,Desk,2,582.37,112.61
+413,2025-01-24,Nairobi,Furniture,Desk,2,888.69,105.54
+414,2025-05-25,Nakuru,Electronics,Tablet,3,450.02,92.97
+415,2025-11-28,Nakuru,Electronics,Phone,3,1132.56,140.36
+416,2025-11-02,Kisumu,Office Supplies,Pen Set,5,1962.04,567.29
+417,2025-04-02,Nairobi,Furniture,Chair,2,856.91,185.69
+418,2025-01-03,Kisumu,Electronics,Laptop,5,1600.04,452.31
+419,2025-02-28,Nairobi,Office Supplies,Stapler,5,1951.27,376.42
+420,2025-08-31,Nairobi,Electronics,Headphones,1,313.98,37.62
+421,2025-10-28,Nairobi,Electronics,Headphones,4,171.5,27.76
+422,2025-10-18,Nakuru,Office Supplies,Stapler,2,373.52,60.47
+423,2025-02-25,Nakuru,Electronics,Phone,4,1794.8,345.24
+424,2025-11-26,Mombasa,Electronics,Laptop,1,249.18,13.96
+425,2025-05-02,Nakuru,Office Supplies,Stapler,1,224.72,17.74
+426,2025-11-10,Kisumu,Office Supplies,Stapler,3,329.02,68.15
+427,2025-05-07,Kisumu,Electronics,Laptop,2,450.7,43.11
+428,2025-12-21,Mombasa,Furniture,Chair,1,295.24,74.4
+429,2025-02-26,Nairobi,Electronics,Headphones,1,342.93,49.52
+430,2025-06-23,Nakuru,Electronics,Tablet,2,666.81,40.54
+431,2025-11-11,Nairobi,Electronics,Laptop,2,65.63,18.65
+432,2025-07-04,Nakuru,Electronics,Tablet,4,1208.18,284.39
+433,2025-08-08,Nakuru,Electronics,Laptop,4,1482.34,244.44
+434,2025-07-23,Nakuru,Electronics,Phone,3,284.82,58.48
+435,2025-03-03,Nairobi,Office Supplies,Printer Paper,3,1304.92,156.91
+436,2025-03-13,Nairobi,Office Supplies,Printer Paper,2,254.31,64.0
+437,2025-06-02,Nairobi,Furniture,Cabinet,2,200.05,36.05
+438,2025-02-04,Nairobi,Office Supplies,Printer Paper,3,1010.99,113.51
+439,2025-12-05,Nakuru,Electronics,Tablet,4,1734.86,200.21
+440,2025-07-10,Nairobi,Electronics,Laptop,3,620.56,46.76
+441,2025-09-09,Mombasa,Furniture,Cabinet,1,360.06,61.79
+442,2025-09-08,Nakuru,Furniture,Cabinet,3,1192.44,105.99
+443,2025-02-05,Mombasa,Electronics,Headphones,4,160.04,34.41
+444,2025-02-06,Kisumu,Furniture,Desk,2,713.41,109.24
+445,2025-06-21,Kisumu,Furniture,Chair,4,523.41,63.64
+446,2025-09-16,Kisumu,Office Supplies,Stapler,2,131.4,27.81
+447,2025-01-21,Nakuru,Furniture,Desk,3,733.38,101.07
+448,2025-03-30,Nairobi,Electronics,Tablet,3,244.06,34.36
+449,2025-04-21,Mombasa,Office Supplies,Stapler,1,190.15,33.4
+450,2025-10-31,Mombasa,Electronics,Phone,1,197.5,52.91
+451,2025-01-30,Kisumu,Electronics,Tablet,1,277.59,53.04
+452,2025-10-22,Mombasa,Electronics,Tablet,1,47.63,4.3
+453,2025-07-15,Nairobi,Electronics,Tablet,5,1619.2,226.42
+454,2025-07-05,Kisumu,Electronics,Phone,4,307.27,61.13
+455,2025-01-08,Nairobi,Electronics,Laptop,5,2254.43,437.67
+456,2025-03-14,Kisumu,Furniture,Cabinet,4,194.75,16.13
+457,2025-01-12,Kisumu,Office Supplies,Pen Set,1,300.99,65.88
+458,2025-06-02,Mombasa,Office Supplies,Pen Set,2,283.65,83.72
+459,2025-01-27,Nakuru,Furniture,Cabinet,2,426.01,50.83
+460,2025-12-04,Nairobi,Electronics,Tablet,3,1324.95,231.28
+461,2025-10-31,Kisumu,Electronics,Headphones,5,2270.15,282.72
+462,2025-06-20,Mombasa,Furniture,Desk,1,136.54,30.02
+463,2025-01-08,Mombasa,Electronics,Headphones,3,556.81,135.85
+464,2025-09-23,Nakuru,Office Supplies,Pen Set,4,228.84,56.98
+465,2025-02-11,Nairobi,Electronics,Phone,1,145.29,37.1
+466,2025-01-26,Nakuru,Furniture,Cabinet,5,1525.01,187.14
+467,2025-12-18,Mombasa,Electronics,Headphones,2,902.19,214.21
+468,2025-06-10,Mombasa,Furniture,Chair,3,194.13,53.74
+469,2025-09-17,Mombasa,Office Supplies,Pen Set,1,76.82,17.12
+470,2025-11-18,Nairobi,Furniture,Cabinet,3,816.14,188.89
+471,2025-01-06,Nairobi,Electronics,Headphones,3,1418.06,101.58
+472,2025-07-29,Nakuru,Electronics,Tablet,4,1268.25,252.1
+473,2025-08-23,Mombasa,Office Supplies,Printer Paper,1,499.94,39.96
+474,2025-12-05,Kisumu,Furniture,Cabinet,2,269.17,45.7
+475,2025-04-30,Kisumu,Electronics,Tablet,3,683.6,110.36
+476,2025-01-08,Mombasa,Electronics,Phone,3,1321.78,234.36
+477,2025-10-07,Kisumu,Office Supplies,Pen Set,2,106.56,29.09
+478,2025-02-23,Mombasa,Office Supplies,Printer Paper,4,311.79,77.87
+479,2025-10-10,Nairobi,Office Supplies,Printer Paper,1,151.95,14.46
+480,2025-10-30,Nakuru,Furniture,Desk,1,461.23,52.06
+481,2025-02-01,Nakuru,Office Supplies,Printer Paper,1,246.74,49.3
+482,2025-06-15,Mombasa,Electronics,Laptop,3,565.53,160.78
+483,2025-07-23,Nakuru,Office Supplies,Printer Paper,3,1236.88,283.73
+484,2025-04-11,Kisumu,Electronics,Headphones,3,388.2,88.9
+485,2025-05-11,Kisumu,Furniture,Desk,4,731.82,127.09
+486,2025-05-26,Mombasa,Furniture,Desk,4,819.09,198.31
+487,2025-02-21,Mombasa,Electronics,Headphones,3,1473.7,163.33
+488,2025-01-24,Mombasa,Furniture,Chair,4,227.52,25.33
+489,2025-03-03,Mombasa,Electronics,Phone,3,680.6,182.61
+490,2025-09-18,Nairobi,Office Supplies,Pen Set,4,1435.15,423.06
+491,2025-11-16,Nakuru,Furniture,Desk,2,803.68,48.22
+492,2025-09-04,Nairobi,Electronics,Phone,4,418.45,118.87
+493,2025-02-24,Kisumu,Electronics,Phone,5,891.95,178.56
+494,2025-12-04,Mombasa,Furniture,Chair,3,970.53,204.62
+495,2025-10-16,Mombasa,Office Supplies,Stapler,2,480.01,59.07
+496,2025-01-13,Nakuru,Office Supplies,Stapler,4,1416.48,228.71
+497,2025-11-10,Mombasa,Electronics,Headphones,3,367.08,63.86
+498,2025-08-27,Mombasa,Office Supplies,Printer Paper,3,166.26,37.06
+499,2025-06-26,Kisumu,Electronics,Laptop,5,2340.15,519.59
+500,2025-11-06,Kisumu,Office Supplies,Pen Set,5,313.5,41.28
